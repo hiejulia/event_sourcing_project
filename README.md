@@ -3,7 +3,7 @@
 ## Tech stack 
 + Scala 
 + Architecture : Event sourcing, CRQS
-+ Database: 
++ Database: PostgreSQL 
 
 ## Feature 
 
